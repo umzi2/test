@@ -1,4 +1,0 @@
-services:
-  s:
-    image: rust:1.98-alpine
-    command: sleep 3600
