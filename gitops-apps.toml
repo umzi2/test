@@ -1,4 +1,0 @@
-[[apps]]
-name = "gotest"
-format = "swarm"
-url = "https://github.com/umzi2/test/blob/main/docker-compose.yml"
